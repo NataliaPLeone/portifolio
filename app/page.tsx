@@ -221,7 +221,7 @@ export default function FullStackPortfolio() {
         <div id="contact" className="container mx-auto text-center mt-8 mb-4">
           <h2 className="text-3xl font-bold mb-8">Entre em contato por aqui!</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-            S2
+            
           </p>
           <div className="max-w-xl mx-auto">
              <div className="flex flex-col sm:flex-row gap-4 justify-center">
