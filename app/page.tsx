@@ -133,11 +133,9 @@ export default function FullStackPortfolio() {
           <h2 className="text-3xl font-bold text-center mb-12">About Me</h2>
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-lg text-muted-foreground mb-6">
-              ... 
+              Sou estudante de Ciência da Computação, apaixonada por tecnologia, dados e aprendizado contínuo. Tenho experiência com desenvolvimento front-end (Next.js, React, Tailwind, TypeScript) e interesse em Inteligência Artificial, ciência de dados e projetos que unam tecnologia com criatividade. Gosto de criar soluções educativas e práticas, explorando formas de aplicar conhecimento de maneira eficiente e acessível. Estou sempre em busca de desafios que me permitam crescer profissional e pessoalmente.
             </p>
-            <p className="text-lg text-muted-foreground mb-8">
-              ;;;
-            </p>
+
            
           </div>
         </div>
